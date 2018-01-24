@@ -11,7 +11,7 @@
 [coveralls-image]: https://coveralls.io/repos/github/author-name/repo-name/badge.svg?branch=master
 [coveralls-url]: https://coveralls.io/github/author-name/repo-name?branch=master
 [david-image]: https://david-dm.org/author-name/repo-name.svg
-[david-url]: (https://david-dm.org/author-name/repo-name
+[david-url]: https://david-dm.org/author-name/repo-name
 [david-dev-image]: https://david-dm.org/author-name/repo-name/dev-status.svg
 [david-dev-url]: https://david-dm.org/author-name/repo-name?type=dev
 [commits-image]: https://img.shields.io/badge/Conventional%20Commits-1.0.0-green.svg
